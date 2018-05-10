@@ -1,3 +1,4 @@
 # hello-world
-This is the first readme file, about to be added to the master branch.
+This is the first readme file.
+I've learned so much about github :-)
 
