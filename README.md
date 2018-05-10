@@ -1,2 +1,3 @@
 # hello-world
-Just trying this out
+This is the first readme file, about to be added to the master branch.
+
